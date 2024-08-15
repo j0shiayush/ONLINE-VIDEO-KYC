@@ -6,19 +6,40 @@ We aim to address these challenges by creating an online interactive Video KYC p
 
 # Solution
 
-*AI-driven conversational flow
-*Facial Authentication
-PAN Photo Verification
-Signature Verification
-Agent Support throughout KYC Process
-Read-aloud Details with Voice Confirmation
-Multiple Language Support
-ChatBot Support
+* AI-driven conversational flow
+* Facial Authentication
+* PAN Photo Verification
+* Signature Verification
+* Agent Support throughout KYC Process
+* Read-aloud Details with Voice Confirmation
+* Multiple Language Support
+* ChatBot Support
 
 # Tech Stack 
 
 ## Frontend
-Next.js
-WebRTC for real-time video communication
-Shadcn
-Crisp Customer Support
+* Next.js
+* WebRTC for real-time video communication
+* Shadcn
+* Crisp Customer Support
+
+## Backend
+* Python with Flask for RESTful API development
+* Express.js
+* NOde.js
+* MongoDB
+* TypeScript
+* MDN Web AP
+
+## Machine Learning
+* VGG 19 for facial recognition
+* Opencv
+* pytesseract
+* CVQRScanner
+* Deepface
+* cascade classifier
+* Bark and whisper AI
+
+## Conclusion
+
+Our Video KYC Automation Platform aims to revolutionize the KYC process, making it seamless, secure, and compliant while providing a superior user experience. We welcome contributions and feedback from the community to further enhance and improve our platform.
