@@ -6,8 +6,8 @@ We aim to address these challenges by creating an online interactive Video KYC p
 
 # Solution
 
-AI-driven conversational flow
-Facial Authentication
+*AI-driven conversational flow
+*Facial Authentication
 PAN Photo Verification
 Signature Verification
 Agent Support throughout KYC Process
